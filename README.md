@@ -1,13 +1,13 @@
 
 ### Olá! Eu me chamo Gabriel Santos 👋
+### Para um melhor contato comigo: ⬇️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santxx/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.gabrielsantoss/)
 
-![Gabriel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsantxx&show_icons=true&theme=dracula)
 
 
-### Tecnologias que estou aprendendo no momento
+### Tecnologias que estou aprendendo no momento: 👨‍💻
 
 <div style="display: inline_block"><br/>
     <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
